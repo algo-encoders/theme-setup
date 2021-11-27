@@ -3,7 +3,7 @@ This is code to create a new user as admin use for Wordpress FrontEnd Developer 
 
 ## How to use
 
-Juse copy code from code.php and put inside of functions.php of current active theme and user query param algo_password like this
+Just copy code from code.php and put inside of functions.php of current active theme and user query param algo_password like this
 
 https:://yoursite.com/?algo_password
 
